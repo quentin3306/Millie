@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    font-family: arial;
+  }
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #FEFFEA;
+    height: 70px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
+  }
+  
+  .links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .link {
+    margin: 10px 30px;
+    color: #602D48;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    color: #C17767;
+  }
+
+  .logo {
+    width: 50px;
+  }

@@ -1,0 +1,23 @@
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 3rem;
+    padding: 10vw;
+    background-color:#FEFFEA ;
+   }
+   
+.card {
+    border: 0px solid transparent !important;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+}
+
+.card-text2{
+    align-self: end;
+}
+
+
