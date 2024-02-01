@@ -11,7 +11,8 @@
 
   /* Colonne gauche */
 .left-column img {
-    width: 70%;
+    margin-left: 70px;
+  width: 70%;
     position: absolute;
     left: 0;
     top: 0;

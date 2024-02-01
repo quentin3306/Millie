@@ -2,11 +2,12 @@
  .product-description {
     border-bottom: 1px solid #E1E8EE;
     margin-bottom: 20px;
+    margin-right: 30px;
 
   }
   .product-description span {
     font-size: 12px;
-    color: #358ED7;
+    color: #C17767;
     letter-spacing: 1px;
     text-transform: uppercase;
     text-decoration: none;
@@ -40,7 +41,7 @@
    
   .cart-btn {
     display: inline-block;
-    background-color: #7DC855;
+    background-color: #602D48;
     border-radius: 6px;
     font-size: 16px;
     color: #FFFFFF;
