@@ -41,7 +41,7 @@
    
   .cart-btn {
     display: inline-block;
-    background-color: #C17767;
+    background-color: #602D48;
     border-radius: 6px;
     font-size: 16px;
     color: #FFFFFF;
@@ -50,5 +50,5 @@
     transition: all .5s;
   }
   .cart-btn:hover {
-    background-color: #64af3d;
+    background-color: #C17767;
   }
