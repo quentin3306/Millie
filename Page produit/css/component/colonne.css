@@ -1,0 +1,24 @@
+/* Colonnes */
+.left-column {
+    width: 65%;
+    position: relative;
+  }
+   
+  .right-column {
+    width: 35%;
+    margin-top: 60px;
+  }
+
+  /* Colonne gauche */
+.left-column img {
+    width: 70%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 1;
+    transition: all 0.3s ease;
+  }
+   
+  .left-column img.active {
+    opacity: 1;
+  }

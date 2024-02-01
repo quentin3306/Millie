@@ -1,0 +1,27 @@
+.form {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.text-highlight {
+    justify-content: center;
+}
+
+.block-left {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    align-items: center;
+}
+
+.txt-grand {
+    padding-top: 50px;
+    font-size: 20px;
+    max-width: 800px;
+}
+
+.block-left h2 {
+    font-size: 46px;
+}

@@ -1,4 +1,4 @@
-.navbar-coffee {
+.navbar {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -6,7 +6,10 @@
     height: 70px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
     background-color: #FEFFEA;
+    margin-bottom: 50px;
 }
+
+
 
 .links {
     display: flex;

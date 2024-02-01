@@ -1,0 +1,11 @@
+.section-video{
+    background-color: white;
+    padding-top: 40px;
+    margin-top: 5em;
+    text-align: center;
+}
+.section-video iframe {
+    border-radius: 16px;
+    margin-top: 4em;
+    margin-bottom: 5em;
+}

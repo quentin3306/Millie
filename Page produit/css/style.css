@@ -1,0 +1,21 @@
+@import 'component/colonne.css';
+@import 'component/description.css';
+@import 'component/navbar.css';
+@import 'component/footer.css';
+
+/* Style */
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+}

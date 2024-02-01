@@ -5,7 +5,10 @@
 @import 'components/navbar.css';
 @import 'components/banner.css';
 @import 'components/section.css';
-
-
-  
- 
+@import 'components/section-video.css';
+@import 'components/footer.css';
+@import 'components/modal.css';
+@import 'components/typeform.css';
+h2 {
+    font-family: 'Homemade Apple', cursive;
+}
